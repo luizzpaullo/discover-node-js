@@ -1,0 +1,1 @@
+module.exports = ('Exportando dados pode ser string, array, objetos')
